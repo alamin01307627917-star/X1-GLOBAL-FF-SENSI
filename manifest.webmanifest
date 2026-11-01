@@ -1,0 +1,17 @@
+{
+  "name": "X¹ – GLOBAL FF SENSI",
+  "short_name": "X¹ SENSI",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#050b14",
+  "theme_color": "#07111f",
+  "description": "Free Fire sensitivity starter preset generator",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
